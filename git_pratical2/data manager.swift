@@ -6,8 +6,10 @@
 //
 
 import Foundation
-
+import os
 class DataManager{
+    
+    let logger=OSLog(subsystem: "com.sample.git", category: "datamager")
     func printMessage(){
         print("print Meassage")
     }
