@@ -8,5 +8,5 @@
 import Foundation
 
 class Secret{
-    var apiKey = "aufguiwrįoq23h4bjkabfka"
+    var apiKey = "aufguiwrįoq23h4bjsdihugio"
 }
